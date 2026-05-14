@@ -1,7 +1,7 @@
 “Not for illegal gambling. For research only
 # ♠️ MasterAI v3.0 |德州AI | 一对多无限注德州扑克最强AI|poker bot  | game theory AI
 
-> **基于强化学习 + CFR + 深度神经网络 | 在非完美信息博弈中达到超人水平**
+> **基于强化学习 + CFR + 深度神经网络 | 在非完美信息博弈中达到超人水平***
 
 [![Contact](https://img.shields.io/badge/联系-TG%3A%40xuzongbin001-blue)](https://t.me/xuzongbin001)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
