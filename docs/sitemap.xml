@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://masterai-top.github.io/cfr-poker-ai-masterai/</loc>
-    <lastmod>2026-08-28</lastmod>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://masterai-top.github.io/cfr-poker-ai-masterai/google9190d9db45c0797d.html</loc>
-    <lastmod>2026-08-28</lastmod>
-    <priority>0.2</priority>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url><loc>https://masterai-top.github.io/cfr-poker-ai-masterai/zh-cn/</loc><xhtml:link rel="alternate" hreflang="zh-CN" href="https://masterai-top.github.io/cfr-poker-ai-masterai/zh-cn/"/><xhtml:link rel="alternate" hreflang="zh-TW" href="https://masterai-top.github.io/cfr-poker-ai-masterai/zh-tw/"/><xhtml:link rel="alternate" hreflang="en" href="https://masterai-top.github.io/cfr-poker-ai-masterai/en/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://masterai-top.github.io/cfr-poker-ai-masterai/en/"/></url>
+  <url><loc>https://masterai-top.github.io/cfr-poker-ai-masterai/zh-tw/</loc><xhtml:link rel="alternate" hreflang="zh-CN" href="https://masterai-top.github.io/cfr-poker-ai-masterai/zh-cn/"/><xhtml:link rel="alternate" hreflang="zh-TW" href="https://masterai-top.github.io/cfr-poker-ai-masterai/zh-tw/"/><xhtml:link rel="alternate" hreflang="en" href="https://masterai-top.github.io/cfr-poker-ai-masterai/en/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://masterai-top.github.io/cfr-poker-ai-masterai/en/"/></url>
+  <url><loc>https://masterai-top.github.io/cfr-poker-ai-masterai/en/</loc><xhtml:link rel="alternate" hreflang="zh-CN" href="https://masterai-top.github.io/cfr-poker-ai-masterai/zh-cn/"/><xhtml:link rel="alternate" hreflang="zh-TW" href="https://masterai-top.github.io/cfr-poker-ai-masterai/zh-tw/"/><xhtml:link rel="alternate" hreflang="en" href="https://masterai-top.github.io/cfr-poker-ai-masterai/en/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://masterai-top.github.io/cfr-poker-ai-masterai/en/"/></url>
 </urlset>
