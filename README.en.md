@@ -1,8 +1,7 @@
 [简体中文](README.md) | [繁體中文](README.zh-TW.md) | [English](README.en.md)
 
-# MasterAI v3.0: CFR Poker AI Research System
+# MasterAI CFR Poker AI Source Code - HUNL Training and Game Research
 
-[![License](https://img.shields.io/badge/License-Apache--2.0-blue.svg)](LICENSE)
 [![C++](https://img.shields.io/badge/C%2B%2B-CFR%20Engine-00599C)](csrc/)
 [![Python](https://img.shields.io/badge/Python-Training%20%26%20Evaluation-3776AB)](main.py)
 [![Research](https://img.shields.io/badge/Use-Research%20%26%20Education-0F6B54)](RESPONSIBLE-USE.md)
@@ -104,7 +103,7 @@ The repository combines C++, Python, shell scripts, Protobuf, Redis, and histori
 Recommended evaluation sequence:
 
 
-1. Read `LICENSE`, the configuration directory, and each script before execution.
+1. Read `LICENSE`, `License.md`, the configuration directory, and each script, then confirm the applicable license terms with the maintainer.
 2. Create an isolated Linux test environment and verify Python, the C++ compiler, CMake, PyTorch, Redis, and third-party library versions.
 3. Inspect the real parameters and paths in `main.py`, `run.py`, `train.sh`, and `deploy.sh`.
 4. Run minimal tests and small benchmarks before estimating full training resources.
@@ -148,10 +147,10 @@ Recommended evaluation sequence:
 ## License and Responsible Use
 
 
-The root [LICENSE](LICENSE) contains Apache License 2.0. The repository also contains a `License.md` file with MIT License text, creating licensing ambiguity. The maintainer should identify one authoritative license after legal review.
+The root [LICENSE](LICENSE) does not currently contain a recognizable complete license text, while the repository also has `License.md`. This creates licensing ambiguity. Before use, distribution, or commercial adoption, ask the maintainer to identify and provide the authoritative license.
 
 
-[RESPONSIBLE-USE.md](RESPONSIBLE-USE.md) is a policy and risk notice; it does not modify rights granted by Apache-2.0. Users remain responsible for applicable law, platform rules, privacy, and data protection.
+[RESPONSIBLE-USE.md](RESPONSIBLE-USE.md) is a policy and risk notice, not a software license. Users remain responsible for applicable law, platform rules, privacy, and data protection.
 
 
 ## Contact and Contributions

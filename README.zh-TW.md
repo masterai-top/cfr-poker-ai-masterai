@@ -1,8 +1,7 @@
 [简体中文](README.md) | [繁體中文](README.zh-TW.md) | [English](README.en.md)
 
-# MasterAI v3.0：CFR 德州撲克 AI 研究系統
+# MasterAI CFR 德州撲克 AI 原始碼 - HUNL 訓練與博弈研究
 
-[![License](https://img.shields.io/badge/License-Apache--2.0-blue.svg)](LICENSE)
 [![C++](https://img.shields.io/badge/C%2B%2B-CFR%20Engine-00599C)](csrc/)
 [![Python](https://img.shields.io/badge/Python-Training%20%26%20Evaluation-3776AB)](main.py)
 [![Research](https://img.shields.io/badge/Use-Research%20%26%20Education-0F6B54)](RESPONSIBLE-USE.md)
@@ -104,7 +103,7 @@ deploy.sh               部署輔助指令碼
 建議依照以下順序評估：
 
 
-1. 閱讀 `LICENSE`、設定目錄和各指令碼內容。
+1. 閱讀 `LICENSE`、`License.md`、設定目錄和各指令碼內容，並向維護者確認適用的授權條款。
 2. 建立隔離的 Linux 測試環境，並確認 Python、C++ 編譯器、CMake、PyTorch、Redis 和第三方函式庫版本。
 3. 檢查 `main.py`、`run.py`、`train.sh` 和 `deploy.sh` 的真實參數與路徑。
 4. 先執行最小測試和小規模 benchmark，再評估完整訓練資源。
@@ -148,10 +147,10 @@ deploy.sh               部署輔助指令碼
 ## 授權與使用責任
 
 
-根目錄 [LICENSE](LICENSE) 是 Apache License 2.0。儲存庫還存在內容為 MIT License 的 `License.md`，兩者會造成授權歧義；維護者應在法律審查後明確唯一適用的授權。
+根目錄 [LICENSE](LICENSE) 目前缺少可識別的完整授權文本，儲存庫另有 `License.md`。兩者會造成授權歧義；使用、散布或商用前，應由維護者明確唯一適用的授權並補齊正式文本。
 
 
-[RESPONSIBLE-USE.md](RESPONSIBLE-USE.md) 是使用政策和風險提示，不修改 Apache-2.0 授予的權利。使用者仍須遵守適用法律、平台規則、隱私和資料保護要求。
+[RESPONSIBLE-USE.md](RESPONSIBLE-USE.md) 是使用政策和風險提示，不構成授權。使用者仍須遵守適用法律、平台規則、隱私和資料保護要求。
 
 
 ## 聯絡與貢獻

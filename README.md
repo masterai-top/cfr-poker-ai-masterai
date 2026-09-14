@@ -1,8 +1,7 @@
-# MasterAI v3.0：CFR| 德州扑克 AI 研究系统|CFR 德州AI | 德州源码|cfr-poker-ai-masterai
+# MasterAI CFR 德州扑克 AI 源码 - HUNL 训练与博弈研究
 
 **简体中文** | [English](README.en.md) | [繁體中文](README.zh-TW.md)
 
-[![License](https://img.shields.io/badge/License-Apache--2.0-blue.svg)](LICENSE)
 [![C++](https://img.shields.io/badge/C%2B%2B-CFR%20Engine-00599C)](csrc/)
 [![Python](https://img.shields.io/badge/Python-Training%20%26%20Evaluation-3776AB)](main.py)
 [![Research](https://img.shields.io/badge/Use-Research%20%26%20Education-0F6B54)](RESPONSIBLE-USE.md)
@@ -88,7 +87,7 @@ deploy.sh               部署辅助脚本
 
 建议按以下顺序评估：
 
-1. 阅读 `LICENSE`、配置目录和脚本内容。
+1. 阅读 `LICENSE`、`License.md`、配置目录和脚本内容，并向维护者确认适用的授权条款。
 2. 建立隔离的 Linux 测试环境，并确认 Python、C++ 编译器、CMake、PyTorch、Redis 和第三方库版本。
 3. 检查 `main.py`、`run.py`、`train.sh` 和 `deploy.sh` 的真实参数与路径。
 4. 先运行最小测试和小规模 benchmark，再评估完整训练资源。
@@ -122,9 +121,9 @@ deploy.sh               部署辅助脚本
 
 ## 许可证与使用责任
 
-根目录 [LICENSE](LICENSE) 是 Apache License 2.0。仓库还存在内容为 MIT License 的 `License.md`，两者会造成授权歧义；维护者应在法律审查后明确唯一适用的许可证。
+根目录 [LICENSE](LICENSE) 当前缺少可识别的完整许可文本，仓库另有 `License.md`。两者会造成授权歧义；使用、分发或商用前，应由维护者明确唯一适用的许可证并补齐正式文本。
 
-[RESPONSIBLE-USE.md](RESPONSIBLE-USE.md) 是使用政策和风险提示，不修改 Apache-2.0 授予的权利。使用者仍需遵守适用法律、平台规则、隐私和数据保护要求。
+[RESPONSIBLE-USE.md](RESPONSIBLE-USE.md) 是使用政策和风险提示，不构成许可证。使用者仍需遵守适用法律、平台规则、隐私和数据保护要求。
 
 ## 联系与贡献
 

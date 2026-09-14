@@ -10,12 +10,16 @@
   <meta name="keywords" content="CFR poker AI, Texas Holdem AI source code, poker bot AI, Counterfactual Regret Minimization, reinforcement learning poker, game theory research">
   <meta name="robots" content="index,follow,max-image-preview:large">
   <link rel="canonical" href="https://masterai-top.github.io/cfr-poker-ai-masterai/">
+  <link rel="alternate" hreflang="zh-CN" href="https://masterai-top.github.io/cfr-poker-ai-masterai/zh-cn/">
+  <link rel="alternate" hreflang="zh-TW" href="https://masterai-top.github.io/cfr-poker-ai-masterai/zh-tw/">
+  <link rel="alternate" hreflang="en" href="https://masterai-top.github.io/cfr-poker-ai-masterai/en/">
+  <link rel="alternate" hreflang="x-default" href="https://masterai-top.github.io/cfr-poker-ai-masterai/">
 
   <meta property="og:type" content="website">
   <meta property="og:title" content="CFR Poker AI MasterAI Source Code">
   <meta property="og:description" content="Texas Holdem AI source code for CFR research, offline training, bot evaluation and game theory experiments.">
   <meta property="og:url" content="https://masterai-top.github.io/cfr-poker-ai-masterai/">
-  <meta property="og:image" content="https://masterai-top.github.io/cfr-poker-ai-masterai/assets/screenshots/cfr-poker-ai-home.jpg">
+  <meta property="og:image" content="https://masterai-top.github.io/cfr-poker-ai-masterai/assets/Screenshots/001.png">
   <meta name="twitter:card" content="summary_large_image">
 
   <style>
@@ -60,6 +64,27 @@
       font-weight: 700;
     }
 
+    .language-bar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 20px;
+      flex-wrap: wrap;
+      padding-bottom: 18px;
+      border-bottom: 1px solid rgba(255,255,255,.2);
+    }
+
+    .language-bar strong { font-size: 18px; }
+    .language-links { display: flex; gap: 10px; flex-wrap: wrap; }
+    .language-links a {
+      margin: 0;
+      padding: 8px 12px;
+      border: 1px solid rgba(255,255,255,.4);
+      border-radius: 6px;
+      color: #fff;
+    }
+    .language-links a:hover { background: #fff; color: #172554; }
+
     h1 {
       font-size: 42px;
       line-height: 1.15;
@@ -102,6 +127,20 @@
       padding: 26px;
       margin: 20px 0;
       box-shadow: 0 14px 34px rgba(15, 23, 42, .08);
+    }
+
+    .feature {
+      background: #fff;
+      border-top: 4px solid #b4232f;
+      padding: 22px;
+      min-height: 170px;
+    }
+
+    .intro-cn {
+      margin-top: 14px;
+      padding-left: 15px;
+      border-left: 3px solid #f2b84b;
+      color: #f8fafc;
     }
 
     .grid {
@@ -193,7 +232,7 @@
         "name": "CFR Poker AI MasterAI Source Code",
         "url": "https://masterai-top.github.io/cfr-poker-ai-masterai/",
         "description": "Texas Holdem AI source code for CFR research, offline training, bot evaluation and game theory experiments.",
-        "image": "https://masterai-top.github.io/cfr-poker-ai-masterai/assets/screenshots/cfr-poker-ai-home.jpg",
+        "image": "https://masterai-top.github.io/cfr-poker-ai-masterai/assets/Screenshots/001.png",
         "inLanguage": "en"
       }
     ]
@@ -203,15 +242,20 @@
 <body>
   <header>
     <div class="wrap">
-      <h1>CFR Poker AI MasterAI</h1>
+      <nav class="language-bar" aria-label="Language navigation">
+        <strong>MasterAI CFR Poker AI</strong>
+        <span class="language-links"><a href="zh-cn/" lang="zh-CN">简体中文</a><a href="zh-tw/" lang="zh-TW">繁體中文</a><a href="en/" lang="en">English</a></span>
+      </nav>
+      <h1>CFR Poker AI Source Code</h1>
       <p>
         Texas Holdem poker AI source code project for Counterfactual Regret Minimization,
         reinforcement learning, offline strategy training, bot evaluation, hand replay analysis
         and imperfect-information game theory research.
       </p>
+      <p class="intro-cn">面向 HUNL 策略训练、反事实价值、自我博弈和评估研究的德州扑克 AI 源码。提供简体中文、繁體中文与英文产品介绍。</p>
       <div class="actions">
         <a class="button" href="https://github.com/masterai-top/cfr-poker-ai-masterai">View GitHub Repository</a>
-        <a href="sitemap.xml" class="button secondary">View Sitemap</a>
+        <a href="zh-cn/" class="button secondary">查看中文介绍</a>
       </div>
     </div>
   </header>
@@ -220,19 +264,19 @@
     <section class="card">
       <h2>Core Technology</h2>
       <div class="grid">
-        <div class="card">
+        <div class="feature">
           <h3>CFR Algorithm</h3>
           <p>Counterfactual Regret Minimization for imperfect-information poker strategy research and training.</p>
         </div>
-        <div class="card">
+        <div class="feature">
           <h3>Reinforcement Learning</h3>
           <p>Self-play training workflow for continuous strategy improvement and AI evaluation.</p>
         </div>
-        <div class="card">
+        <div class="feature">
           <h3>Deep Neural Networks</h3>
           <p>Neural evaluation modules for state value, action value and strategy approximation.</p>
         </div>
-        <div class="card">
+        <div class="feature">
           <h3>C++ and Python</h3>
           <p>Hybrid engineering stack for performance-sensitive poker AI experiments.</p>
         </div>
@@ -242,15 +286,15 @@
     <section class="card">
       <h2>Use Cases</h2>
       <div class="grid">
-        <div class="card">
+        <div class="feature">
           <h3>Texas Holdem AI</h3>
           <p>Research-oriented AI engine for Texas Holdem decision systems and poker strategy experiments.</p>
         </div>
-        <div class="card">
+        <div class="feature">
           <h3>Poker Bot Evaluation</h3>
           <p>Bot benchmarking, hand replay analysis, exploitability checks and strategy comparison.</p>
         </div>
-        <div class="card">
+        <div class="feature">
           <h3>Game Theory Research</h3>
           <p>Imperfect-information game research, Nash equilibrium approximation and offline simulation.</p>
         </div>
