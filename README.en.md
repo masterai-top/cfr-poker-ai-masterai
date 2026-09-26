@@ -9,6 +9,8 @@
 
 MasterAI v3.0 is a game-AI research project for **Heads-Up No-Limit Texas Hold'em (HUNL)**. It explores Counterfactual Regret Minimization, self-play reinforcement learning, deep neural networks, counterfactual value estimation, and online strategy re-solving.
 
+Topic pages: [Texas Holdem AI source code](https://masterai-top.github.io/cfr-poker-ai-masterai/zh-cn/texas-holdem-ai-source-code.html) · [Poker bot research](https://masterai-top.github.io/cfr-poker-ai-masterai/zh-cn/poker-bot-research.html) · [Offline poker analysis software](https://masterai-top.github.io/cfr-poker-ai-masterai/zh-cn/poker-analysis-software.html)
+
 
 > This project is intended for research and education in game theory, imperfect-information games, and multi-agent decision making. Do not use it for activities that violate applicable law, platform rules, or third-party rights.
 

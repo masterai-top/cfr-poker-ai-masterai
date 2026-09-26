@@ -9,6 +9,8 @@
 
 MasterAI v3.0 是面向**單挑無限注德州撲克（Heads-Up No-Limit Texas Hold'em，HUNL）**的博弈 AI 研究專案，聚焦於反事實遺憾最小化（CFR）、自我博弈強化學習、深度神經網路、反事實價值計算和線上策略重解。
 
+專題頁面：[德州 AI 原始碼](https://masterai-top.github.io/cfr-poker-ai-masterai/zh-tw/texas-holdem-ai-source-code.html) · [德州機器人研究](https://masterai-top.github.io/cfr-poker-ai-masterai/zh-tw/poker-bot-research.html) · [德州輔助軟體與離線分析](https://masterai-top.github.io/cfr-poker-ai-masterai/zh-tw/poker-analysis-software.html)
+
 
 > 本專案用於博弈論、非完美資訊博弈和多智能體決策研究。請勿將其用於違反適用法律、平台規則或第三方權利的活動。
 
